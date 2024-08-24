@@ -378,7 +378,7 @@ print((0, 0) > (1, 2))  # False
 
 |<img src="https://i.gifer.com/origin/06/0691766358720472929257b565c761f0_w200.gif">|`len()` возвращает количество элементов в объекте (массива, кортежа, словаря) или количество символов в строке. Рассмотрим пример, где сравнивается количество символов/элементов.
 |------------|----------------------------------|
-||`print(len([1, 2, 3]) > len([1, 2]))  # True`<br>`print(len('hello') == len('world'))  # True`<br>`print('stroka' < 'ssttrrookkaa')  # False`|
+||`print(len('abc'))  # 3`<br>`print(len([1, 2, 3]) > len([1, 2]))  # True`<br>`print(len('hello') == len('world'))  # True`<br>`print('stroka' < 'ssttrrookkaa')  # False`|
 
 ## Операторы членства
 
