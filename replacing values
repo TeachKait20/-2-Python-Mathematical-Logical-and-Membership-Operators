@@ -9,4 +9,4 @@ print("Переменная variable_2 имеет значение: ", variable_
 # переприсвоим значение variable_2 переменной variable_1
 variable_1 = variable_2
 
-print('После переприсваивания переменная variable_1 имеет значение: ', variable_1)
+print('Теперь переменная variable_1 имеет значение: ', variable_1)
