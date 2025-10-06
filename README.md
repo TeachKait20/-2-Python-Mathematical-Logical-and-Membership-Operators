@@ -1,4 +1,4 @@
-# -2-Python-Mathematical-Logical-and-Membership-Operators
+# -2-Python-Mathematical-Logical-and-Membership-Operators 
 ## Арифметические операции в Python для числовых типов данных
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1B9C0B&width=435&lines=%23+arithmetic+;print(6+*+(2+%2B+2));c+%3D+2+**+4)](https://git.io/typing-svg)
